@@ -9,8 +9,8 @@
     scroll-behavior: smooth;
   }
 body{
-    background: black;
-    color:#fff;
+    background: white;
+    color:black;
   }
 h1{
   text-align: center;
@@ -61,7 +61,7 @@ h1 span:hover{
 .sub1-title{
   font-size: 40px;
   font-weight: 600;
-  color: #fff;
+  color: black;
 }
 .about1-col-2 p span{
   color: #ff004f;
