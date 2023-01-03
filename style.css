@@ -17,7 +17,7 @@ h1{
   font-size: 50px;
   padding-left: 100px;
   padding-right: 100px;
-  padding-top: 100px;
+  padding-top: 50px;
 }
 h1 span{
   font-weight: bold;
@@ -41,7 +41,7 @@ h1 span:hover{
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-  padding-top: 80px;
+  
 }
 .about1-col-1{
   flex-basis: 35%;
@@ -103,5 +103,8 @@ nav ul1 li{
 
   .longpic img{
     width: 1000px;
+  }
+  .market img{
+    width: 500px;
   }
   
