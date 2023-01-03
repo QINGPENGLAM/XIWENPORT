@@ -51,6 +51,7 @@ h1 span:hover{
   border-radius: 15px;
   transition: transform 0.5s;
   cursor: pointer;
+  padding: 20px 20px;
 }
 .about1-col-1 img:hover{
   transform: scale(1.2);
@@ -102,9 +103,21 @@ nav ul1 li{
   }
 
   .longpic img{
-    width: 1000px;
+    border-radius: 15px;
+    padding: 20px 20px;
+    cursor: pointer;
+    transition: transform 0.5s;
+  }
+  .longpic img:hover{
+    transform: scale(1.2);
   }
   .market img{
-    width: 500px;
+    border-radius: 15px;
+    padding: 20px 20px;
+    cursor: pointer;
+    transition: transform 0.5s;
+  }
+  .market img:hover{
+    transform: scale(1.2);
   }
   
