@@ -20,7 +20,7 @@ h1{
   padding-top: 100px;
 }
 h1 span{
-  color: #ff004f;
+  font-weight: bold;
   transition: font-size 0.5s;
   cursor: pointer;
 }
@@ -64,7 +64,7 @@ h1 span:hover{
   color: black;
 }
 .about1-col-2 p span{
-  color: #ff004f;
+  font-weight: bold;
 }
 .tab1-titles{
   display: flex;
