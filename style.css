@@ -100,4 +100,8 @@ nav ul1 li{
   nav .fas{
     display: none;
   }
+
+  .longpic img{
+    width: 1000px;
+  }
   
