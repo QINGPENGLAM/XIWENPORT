@@ -71,6 +71,9 @@ h1 span:hover{
   display: flex;
   margin: 20px 0 40px;
 }
+.title{
+    text-align: center;
+}
 
 /*----------small------*/
 nav ul1 li{
@@ -120,4 +123,8 @@ nav ul1 li{
   .market img:hover{
     transform: scale(1.2);
   }
-  
+  .fit img{
+
+    width: 30%;
+    padding: 5px;
+  }
